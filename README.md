@@ -1,4 +1,4 @@
-# Just Wasting Times
+# Just Wasting Time
 Absolutely nothing important happens here.
 This is a completely useless project, made purely for the art of wasting time in the most unproductive way possible.
 Perfect for when you want to look busy while doing absolutely nothing of value.
